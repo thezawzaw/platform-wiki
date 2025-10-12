@@ -1,10 +1,8 @@
-# Platform Docs
+# [Platform Wiki & Docs](https://github.com/thezawzaw/platform-docs/wiki)
 
-_**Welcome to Zaw's Platform Wiki & Docs**_
+_Welcome to Zaw's Platform Wiki & Docs_
 
 Documentation &amp; Wiki for Platform-specific, Linux, Containerization, and Kubernetes.
-
-Wiki Home: [thezawzaw/platform-docs/wiki](https://github.com/thezawzaw/platform-docs/wiki)
 
 ## Table of Contents
 
