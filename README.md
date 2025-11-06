@@ -12,31 +12,31 @@ This Wiki is for *short, to-the-point gists and docs only*. And for more detaile
 This wiki contains the following documentation and topics:
 
 - ### [Linux](https://github.com/thezawzaw/platform-wiki/wiki/Linux)
-  &nbsp; _Documentation on Linux systems, useful command-line tools, and tips._
-
+  &nbsp;&nbsp; _Documentation on Linux systems, useful command-line tools, and tips._
 
 - ### [SRE & Platform Engineering](https://github.com/thezawzaw/platform-wiki/wiki/SRE-%26-Platform-Engineering)
-  &nbsp; _Documentation on DevOps, SRE, and Platform Engineering._
-
+  &nbsp;&nbsp; _Documentation on DevOps, SRE, and Platform Engineering._
 
 - ### [Containerization](https://github.com/thezawzaw/platform-wiki/wiki/Containerization)
-  &nbsp; _Documentation on Containerization and Container Networking._
-
+  &nbsp;&nbsp; _Documentation on Containerization and Container Networking._
 
 - ### [Kubernetes](https://github.com/thezawzaw/platform-wiki/wiki/Kubernetes)
-  &nbsp; _Documentation on Kubernetes-related Tools, Cluster Administration, and Configuration._
+  &nbsp;&nbsp; _Documentation on Kubernetes-related Tools, Cluster Administration, and Configuration._
 
+- ### [Continuous integration (CI)](https://github.com/thezawzaw/platform-wiki/wiki/Continuous-integration-%28CI%29)
+  &nbsp;&nbsp; _Documentation on Continuous integration (CI) Tools and Configuration._
 
 - ### [Continuous Delivery & Deployment (CD)](https://github.com/thezawzaw/platform-wiki/wiki/Continuous-Delivery-%26-Deployment-%28CD%29)
-  &nbsp; _Documentation on Continuous Delivery and Deployment (CD) Tools._
-
+  &nbsp;&nbsp; _Documentation on Continuous Delivery and Deployment (CD) Tools._
 
 - ### [Security & Hardening](https://github.com/thezawzaw/platform-wiki/wiki/Security-%26-Hardening)
-  &nbsp; _Documentation on DevSecOps, Security & Hardening._
-
+  &nbsp;&nbsp; _Documentation on DevSecOps, Security & Hardening._
 
 - ### [Logging & Monitoring](https://github.com/thezawzaw/platform-wiki/wiki/Logging-%26-Monitoring)
-  &nbsp; _Documentation on Logging, Monitoring, and Observability._
+  &nbsp;&nbsp; _Documentation on Logging, Monitoring, and Observability._
+
+- ### [Miscellaneous Tips & Tricks](https://github.com/thezawzaw/platform-wiki/wiki/Miscellaneous-Tips-%26-Tricks)
+  &nbsp;&nbsp; _Documentation on Useful, Miscellaneous Tips & Tricks._
 
 ---
 
