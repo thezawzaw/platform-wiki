@@ -9,41 +9,37 @@ This Wiki is for *short, to-the-point gists and docs only*. And for more detaile
 
 ## Table of Contents
 
-This wiki contains the following documentation and topics.
+This wiki contains the following documentation and topics:
 
-### Linux
- - [Building a Tiny Linux System from Scratch](Building-a-Tiny-Linux-System-from-Scratch)
- - [Speeding Up C/C++ Builds Using Ccache](Speeding-Up-C-C---Builds-Using-Ccache-(Compiler-Cache))
+- ### [Linux](https://github.com/thezawzaw/platform-wiki/wiki/Linux)
+  &nbsp; _Documentation on Linux systems, useful command-line tools, and tips._
 
-### DevOps & SRE
- - [Overview of DevOps and CI & CD Automation](https://github.com/thezawzaw/platform-wiki/wiki/Overview-of-DevOps-and-CI-&-CD-Automation)
 
-### Containerization
- - [A Deep Dive into Single-Host Container Networking](https://github.com/thezawzaw/platform-wiki/wiki/Containers-from-Scratch:-Deep-Dive-into-Container-Networking)
- - [A Deep Dive into Multi-Host Container Networking (Part II)](https://www.zawzaw.blog/deep-dive-into-multi-host-container-networking)
+- ### [SRE & Platform Engineering](https://github.com/thezawzaw/platform-wiki/wiki/SRE-%26-Platform-Engineering)
+  &nbsp; _Documentation on DevOps, SRE, and Platform Engineering._
 
-### Kubernetes
- - [Automating TLS Cert Management with Cert‐Manager on Kubernetes](https://github.com/thezawzaw/platform-wiki/wiki/Automating-TLS-Cert-Management-with-Cert%E2%80%90Manager-on-Kubernetes)
- - [A Hands-on Practical Guide to K8s Persistent Storage](https://www.zawzaw.blog/practical-guide-k8s-persistent-storage/)
- - [Configuring RBAC Role Bindings for a User on Kubernetes](https://www.zawzaw.blog/configure-rbac-role-bindings-kubernetes/)
- - [Bootstrapping a K3s Cluster and Configuring its Automated Upgrades](https://www.zawzaw.blog/automated-upgrade-k3s-cluster/)
- - [Writing a Kubernetes Helm Chart from Scratch](https://www.zawzaw.blog/k8s-write-k8s-helm-chart)
 
-### Continuous Delivery & Deployment (CD)
- - [Argo CD Multiple Sources: Deploying An App from Multiple Sources](https://github.com/thezawzaw/platform-wiki/wiki/Argo-CD-Multiple-Sources:-Deploying-An-App-from-Multiple-Sources)
+- ### [Containerization](https://github.com/thezawzaw/platform-wiki/wiki/Containerization)
+  &nbsp; _Documentation on Containerization and Container Networking._
 
-### Security & Hardening
- - [Using Trivy to Find Vulnerabilities of Container Image](https://github.com/thezawzaw/platform-wiki/wiki/Using-Trivy-to-Find-Vulnerabilities-of-Container-Image)
 
-### Logging & Monitoring
-- [Grafana Loki logging Setup and Forward logs using Promtail](Grafana-Loki-logging-Setup-and-Forward-logs-using-Promtail)
+- ### [Kubernetes](https://github.com/thezawzaw/platform-wiki/wiki/Kubernetes)
+  &nbsp; _Documentation on Kubernetes-related Tools, Cluster Administration, and Configuration._
 
-### Site Generator & Docs
- - [Creating a Book or Documentation with mdBook](Creating-a-Book-or-Documentation-with-mdBook)
 
-### Blog Posts & Articles
+- ### [Continuous Delivery & Deployment (CD)](https://github.com/thezawzaw/platform-wiki/wiki/Continuous-Delivery-%26-Deployment-%28CD%29)
+  &nbsp; _Documentation on Continuous Delivery and Deployment (CD) Tools._
 
-Blog posts and articles provide beginner-friendly, more detailed, and in-depth guides.
 
-**The ZawZaw Blog:** [https://www.zawzaw.blog](https://www.zawzaw.blog/)
+- ### [Security & Hardening](https://github.com/thezawzaw/platform-wiki/wiki/Security-%26-Hardening)
+  &nbsp; _Documentation on DevSecOps, Security & Hardening._
 
+
+- ### [Logging & Monitoring](https://github.com/thezawzaw/platform-wiki/wiki/Logging-%26-Monitoring)
+  &nbsp; _Documentation on Logging, Monitoring, and Observability._
+
+---
+
+#### Blog Posts & Articles
+
+Blog posts and articles provide beginner-friendly, more detailed, and in-depth guides. Read more on The ZawZaw Blog: [https://www.zawzaw.blog](https://www.zawzaw.blog/)
