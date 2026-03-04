@@ -1,11 +1,7 @@
 # The Platform Wiki
 [https://github.com/thezawzaw/platform-wiki/wiki](https://github.com/thezawzaw/platform-wiki/wiki)
 
-_**Welcome to Zaw's Platform Wiki**_
-
-The platform wiki for SRE, Platform Engineering, Linux, Cloud-native, Containerization, and Kubernetes. This wiki is for *only references and short, to-the-point guides*.
-
-And for beginner-friendly, more detailed, and in-depth guides, please visit and read more on [https://www.zawzaw.blog](https://www.zawzaw.blog/).
+The platform wiki for SRE, Platform Engineering, Linux, Cloud-native, Containerization, and Kubernetes. This wiki is for *only references and short, to-the-point guides*. For beginner-friendly, more detailed, and in-depth guides, please visit and read more on [https://www.zawzaw.blog](https://www.zawzaw.blog/).
 
 ## Table of Contents
 
